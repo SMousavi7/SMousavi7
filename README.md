@@ -1,35 +1,35 @@
-# Hi, I'm Sadra 👋
+# Hi, I'm Sadra Mousavi 👋
 
 ### Computer Engineering Student | Embedded Systems • IoT • Edge AI
 
-I'm a Computer Engineering undergraduate at **Shahid Beheshti University**, interested in building intelligent systems that connect **software, embedded hardware, and the physical world**.
+I'm a **Computer Engineering undergraduate at Shahid Beheshti University**, interested in designing systems at the intersection of **software, embedded hardware, intelligent systems, and connectivity**.
 
-My main interests are **Embedded Systems, Internet of Things (IoT), Edge Computing, Embedded AI, Digital Twins, Computer Networks, and Cybersecurity**.
+My primary interests include **Embedded Systems, Internet of Things (IoT), Edge Computing, Embedded AI, Digital Twins, Computer Networks, and Cybersecurity**.
 
-I enjoy working on projects that go beyond pure software — from microcontrollers and FPGA-based hardware accelerators to IoT systems, edge intelligence, and hardware/software co-design.
+I enjoy building hands-on projects involving microcontrollers, sensors, FPGA-based systems, IoT platforms, communication protocols, real-time systems, and intelligent edge devices.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Sc. Computer Engineering student at **Shahid Beheshti University**
-- 📊 GPA: **18.43 / 20**
-- 🏅 Ranked among the **Top 10%** of Computer Engineering undergraduate students
-- 🧑‍🏫 Teaching Assistant for **Advanced Programming, Operating Systems, and Computer Architecture**
-- 🔬 Interested in **Embedded Systems, IoT, Edge AI, Digital Twins, and Computer Networks**
-- ⚙️ Experienced with **STM32, ESP32, ARM Cortex-M, FPGA, and Verilog**
-- 🧠 Interested in combining **AI algorithms with resource-constrained and embedded systems**
+* 🎓 B.Sc. student in **Computer Engineering** at Shahid Beheshti University
+* 🔬 Interested in **Embedded Systems, IoT, Edge AI, Digital Twins, and Computer Networks**
+* ⚙️ Experience with **STM32, ESP32, ARM Cortex-M, FPGA, and Verilog**
+* 🌐 Interested in connecting embedded devices with **IoT platforms, gateways, and communication protocols**
+* 🧠 Exploring the deployment of **machine learning and intelligent algorithms on edge devices**
+* 🧑‍🏫 Teaching Assistant for **Advanced Programming, Operating Systems, and Computer Architecture**
+* 🔧 Interested in **hardware/software co-design** and building complete systems from low-level hardware to application-level software
 
 ---
 
 # 🔬 Areas of Interest
 
 ```text
-Embedded Systems        Internet of Things
-Edge Computing          Embedded AI
-Digital Twins           Computer Networks
-FPGA & Digital Design   Cybersecurity
-Hardware/Software Co-Design
+Embedded Systems          Internet of Things
+Edge Computing            Embedded AI
+Digital Twins             Computer Networks
+FPGA & Digital Design     Cybersecurity
+Real-Time Systems         Hardware/Software Co-Design
 ```
 
 ---
@@ -38,162 +38,253 @@ Hardware/Software Co-Design
 
 ### Programming
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat\&logo=dotnet\&logoColor=white)
 
 ### Embedded & Hardware
 
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
-![ARM](https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=flat&logo=arm&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat\&logo=stmicroelectronics\&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat\&logo=espressif\&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat\&logo=arduino\&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=flat\&logo=arm\&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-FPGA-blue?style=flat)
 
 ### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB-Simulink-orange?style=flat)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
 
 ---
 
-# 🚀 Selected Projects
+# 🚀 Featured Projects
 
-### 🌐 IoT & Embedded Systems
+## 🏠 Smart Home — KNX & ThingsBoard
 
-My recent work includes hands-on IoT and embedded-system projects involving sensor data acquisition, communication protocols, edge processing, IoT platforms, and hardware/software integration.
+[**View Repository →**](https://github.com/SMousavi7/smart-home-knx-thingsboard)
 
-These projects explore technologies and concepts such as:
+A smart-home IoT system integrating **KNX building automation with the ThingsBoard IoT platform**.
 
-- Embedded sensing and data acquisition
-- IoT gateways and cloud-connected devices
-- Edge processing
-- Industrial communication protocols
-- Hardware/software integration
-- IoT dashboards and remote monitoring
+The project explores the connection between building automation devices and an IoT platform through a gateway architecture, enabling telemetry collection, visualization, and remote interaction through ThingsBoard dashboards.
 
-> Check out my pinned repositories below for the latest IoT and embedded projects.
+**Key areas:**
+
+`KNX` • `ThingsBoard` • `IoT Gateway` • `Smart Home` • `Building Automation` • `IoT Dashboards`
 
 ---
+
+## 🧠 MPU6050 Edge AI Motion Classification
+
+[**View Repository →**](https://github.com/SMousavi7/MPU6050-Edge-AI-Motion-Classification)
+
+An **Edge AI motion-classification system** using motion data collected from an **MPU6050 IMU sensor**.
+
+The project combines embedded sensing with machine learning, including motion-data acquisition and derived differential features for on-device motion classification.
+
+The classification model was developed using **Edge Impulse**, connecting the machine-learning pipeline with an embedded sensing application.
+
+**Key areas:**
+
+`Edge AI` • `Embedded ML` • `MPU6050` • `IMU` • `Motion Classification` • `Edge Impulse` • `Sensor Data`
+
+---
+
+## ⏱️ Embedded Real-Time Systems Course Project
+
+[**View Repository →**](https://github.com/SMousavi7/Embedded-Real-Time-Systems-Course-Project)
+
+A collection of implementations and experiments developed for an **Embedded Real-Time Systems** course.
+
+The project focuses on concepts related to embedded computing and real-time system behavior, providing hands-on experience with the design and implementation of time-sensitive embedded applications.
+
+**Key areas:**
+
+`Embedded Systems` • `Real-Time Systems` • `Scheduling` • `Low-Level Programming`
+
+---
+
+## 💻 Operating Systems Course Project
+
+[**View Repository →**](https://github.com/SMousavi7/Operating-Systems-Course-Project)
+
+Implementations and experiments covering fundamental **Operating Systems** concepts.
+
+The project explores topics such as process and memory management, scheduling, synchronization, and other core mechanisms used by modern operating systems.
+
+**Key areas:**
+
+`Operating Systems` • `Memory Management` • `Process Scheduling` • `Synchronization` • `Python`
+
+---
+
+## 📡 ESP32-S3 ThingsBoard MQTT(S) Onboarding
+
+[**View Repository →**](https://github.com/MilladAnsari/esp32s3-thingsboard-mqtts-onboarding)
+
+A collaborative IoT project focused on connecting and onboarding **ESP32-S3 devices to ThingsBoard** using MQTT/MQTT(S).
+
+The project explores embedded-to-cloud communication and secure IoT connectivity using ESP32-based hardware and the ThingsBoard platform.
+
+**Key areas:**
+
+`ESP32-S3` • `ThingsBoard` • `MQTT` • `MQTTS` • `IoT` • `Device Onboarding`
+
+---
+
+# ⚡ Other Projects
 
 ### 🔐 TEA Encryption on Remote FPGA
 
-Hardware implementation of the **Tiny Encryption Algorithm (TEA)** on remote **Mitra Z10/Z20 FPGA boards**.
+Hardware implementation of the **Tiny Encryption Algorithm (TEA)** using a custom Verilog accelerator integrated with a Zynq Processing System.
 
-The project combines:
+The project involved:
 
-- Verilog hardware design
-- Custom AXI4-Lite peripheral
-- Zynq Processing System
-- FPGA hardware acceleration
-- Xilinx Vivado & SDK
-- Remote FPGA deployment through a university infrastructure
+* Verilog hardware design
+* AXI4-Lite communication
+* Custom FPGA IP
+* Zynq Processing System
+* Xilinx Vivado & SDK
+* Remote deployment on Mitra Z10/Z20 FPGA boards
 
 ---
 
 ### 🖼️ FPGA Digit Convolution Accelerator
 
-A hardware image-processing accelerator for detecting digits in a **64×64 grayscale image**.
+A hardware image-processing accelerator designed to detect target digits in a grayscale image.
 
-Implemented using:
+The implementation combines:
 
-- Verilog
-- Sliding-window template matching
-- Chunk-based image processing
-- AXI4-Lite communication
-- Zynq
-- Remote FPGA deployment
+```text
+Image Data
+    ↓
+Zynq Processor
+    ↓
+AXI4-Lite
+    ↓
+FPGA Accelerator
+    ↓
+Sliding-Window Processing
+    ↓
+Digit Detection
+```
 
----
-
-### 🏠 Model-Based Real-Time Heating Controller
-
-Designed and modeled a multi-room real-time heating control system using:
-
-- MATLAB
-- Simulink
-- Stateflow
-- V-Model development
-- Requirement-driven design
-- Simulation and test coverage analysis
+The project provided hands-on experience with **FPGA-based image processing, hardware acceleration, and hardware/software co-design**.
 
 ---
 
 ### 🤖 Hand of the King — AI Agent
 
-Developed a competitive AI agent for the **Hand of the King** board game.
+A game-playing AI agent developed for the **Hand of the King** board game.
 
 The agent combines:
 
 ```text
-Minimax
-    +
+Minimax Search
+      +
 Alpha-Beta Pruning
-    +
+      +
 Adaptive Search Depth
-    +
+      +
 Custom Heuristic Evaluation
-    +
+      +
 Genetic Algorithm Optimization
 ```
 
-The heuristic coefficients were evolved through automated agent-vs-agent matches using tournament selection, crossover, and mutation.
-
-🏆 **Achieved 3rd place in the course AI agent competition.**
+The Genetic Algorithm was used to optimize the coefficients of the heuristic evaluation function through automated agent-vs-agent matches.
 
 ---
 
-### 💻 Operating Systems Algorithms & Memory Management
+### 🌡️ Model-Based Real-Time Heating Controller
 
-Implemented and analyzed fundamental operating-system algorithms including:
+A multi-room real-time heating control system designed using:
 
-- Page replacement
-- Virtual memory
-- Process scheduling
-- Synchronization
-- Memory management
+* MATLAB
+* Simulink
+* Stateflow
+* Model-Based Design
+* V-Model development
+* Requirement-driven architecture
+* Simulation and validation
 
 ---
 
 # 🎓 Teaching Experience
 
-I've served as a Teaching Assistant in several undergraduate Computer Engineering courses:
+I've served as a Teaching Assistant for several undergraduate Computer Engineering courses:
 
-- **Advanced Programming** — Head of Workshop Team
-- **Operating Systems Concepts**
-- **Computer Architecture**
+### Advanced Programming
 
-My responsibilities have included designing programming assignments and projects, conducting workshops, presenting technical concepts, and supporting students during project implementation.
+* Served as **Head of the Workshop Team**
+* Conducted programming workshops
+* Helped coordinate teaching activities
+* Assisted students with programming concepts and assignments
+
+### Operating Systems Concepts
+
+* Designed programming assignments and course projects
+* Assisted students with operating-system concepts
+* Provided technical guidance during project implementation
+
+### Computer Architecture
+
+* Helped design assignments and course projects
+* Assisted students with processor architecture and low-level system concepts
 
 ---
 
 # 🏆 Academic Highlights
 
-- 🎓 **GPA: 18.43 / 20**
-- 🏅 **Top 10%** academic standing among Computer Engineering undergraduate students
-- 🥉 **3rd Place** — Hand of the King AI Agent Competition
-- 📚 Multiple semesters of Teaching Assistant experience
-- 🧑‍💻 Head of Workshop Team for Advanced Programming
-- 🎯 **Rank 71** among 37,000+ participants in the regional quota of the Iranian National University Entrance Examination
+* 🏅 Ranked among the **Top 10%** of undergraduate Computer Engineering students
+* 🧑‍🏫 Multiple semesters of experience as a **Teaching Assistant**
+* 👨‍💻 Served as **Head of the Workshop Team** for Advanced Programming
+* 🎯 Ranked **71st among 37,000+ participants** in the regional quota of the Iranian National University Entrance Examination
+* 📰 Former member of the editorial team of the faculty scientific magazine
+* 🤝 Served on the executive committee of a university Artificial Intelligence conference
+
+---
+
+# 🌱 What I'm Currently Interested In
+
+I'm particularly interested in projects that combine multiple layers of computing systems:
+
+```text
+Sensors / Physical Systems
+          ↓
+Embedded Devices
+          ↓
+Edge Processing & Intelligence
+          ↓
+Communication Protocols
+          ↓
+IoT Platforms
+          ↓
+Monitoring & Applications
+```
+
+I'm interested in exploring how **machine learning, embedded computing, IoT, and edge systems** can be combined to build practical intelligent systems.
 
 ---
 
 # 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-SMousavi7-181717?style=for-the-badge&logo=github)](https://github.com/SMousavi7)
+[![GitHub](https://img.shields.io/badge/GitHub-SMousavi7-181717?style=for-the-badge\&logo=github)](https://github.com/SMousavi7)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sadra_Mousavi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seyed-sadra-mousavi-2307a42a4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sadra_Mousavi-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/seyed-sadra-mousavi-2307a42a4/)
 
-📧 **Email:** seyedsadramousavi77@gmail.com
+📧 **Email:** [seyedsadramousavi77@gmail.com](mailto:seyedsadramousavi77@gmail.com)
 
 ---
 
 <p align="center">
-  <i>Interested in building intelligent systems at the intersection of software, embedded hardware, and connectivity.</i>
+  <b>Embedded Systems • IoT • Edge AI • Hardware/Software Co-Design</b>
+</p>
+
+<p align="center">
+  Building intelligent systems that connect software, hardware, and the physical world.
 </p>
