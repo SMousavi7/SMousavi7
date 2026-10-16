@@ -2,6 +2,8 @@
 
 ### Computer Engineering Student | Embedded Systems • IoT • Edge AI
 
+[![Website](https://img.shields.io/badge/Personal_Website-Visit_My_Portfolio-0E6E55?style=for-the-badge&logo=githubpages&logoColor=white)](https://smousavi7.github.io/)
+
 I'm a **Computer Engineering undergraduate at Shahid Beheshti University**, interested in designing systems at the intersection of **software, embedded hardware, intelligent systems, and connectivity**.
 
 My primary interests include **Embedded Systems, Internet of Things (IoT), Edge Computing, Embedded AI, Digital Twins, Computer Networks, and Cybersecurity**.
@@ -19,6 +21,7 @@ I enjoy building hands-on projects involving microcontrollers, sensors, FPGA-bas
 * 🧠 Exploring the deployment of **machine learning and intelligent algorithms on edge devices**
 * 🧑‍🏫 Teaching Assistant for **Advanced Programming, Operating Systems, and Computer Architecture**
 * 🔧 Interested in **hardware/software co-design** and building complete systems from low-level hardware to application-level software
+* 
 
 ---
 
@@ -200,6 +203,8 @@ I'm interested in exploring how **machine learning, embedded computing, IoT, and
 [![GitHub](https://img.shields.io/badge/GitHub-SMousavi7-181717?style=for-the-badge\&logo=github)](https://github.com/SMousavi7)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sadra_Mousavi-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/seyed-sadra-mousavi-2307a42a4/)
+
+[![Website](https://img.shields.io/badge/Website-Portfolio-0E6E55?style=for-the-badge&logo=githubpages&logoColor=white)](https://smousavi7.github.io/)
 
 📧 **Email:** [seyedsadramousavi77@gmail.com](mailto:seyedsadramousavi77@gmail.com)
 
